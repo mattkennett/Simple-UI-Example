@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Sweet App</string>
+    <string name="button_send">Enter</string>
+    <string name="hint_enter_text">Enter Text</string>
+</resources>
